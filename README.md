@@ -18,7 +18,10 @@ A simple task management app built with React and Vite.
 
 ### Usage
 1. Clone the repo.  
-2. Install dependencies: ``` npm install 
-npm install react react-dom react-icons```
-3. Run: ``` npm run dev ```
-4. Open in your browser
+2. Install dependencies: ```npm install``` ```npm install react react-dom react-icons```
+
+
+
+
+4. Run:
+``` npm run dev ```
